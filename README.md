@@ -1,4 +1,4 @@
-# Tanks Inc - United Front :boom::tank:
+# Tanks Inc - United Front 💥
 
 Welcome to **Tanks Inc - United Front**, where teamwork makes the dream work... and by dream, we mean blowing up enemy bases with your friends! :sunglasses::boom:
 
@@ -17,4 +17,4 @@ Join the fight in "Tanks Inc - United Front" and become a legend on the battlefi
 
 ---
 
-*Disclaimer: No actual tanks were harmed in the making of this game. :wink:*
+*Disclaimer: No actual tanks were harmed in the making of this game. 😉*
