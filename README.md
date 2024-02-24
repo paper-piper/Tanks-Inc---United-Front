@@ -1,4 +1,4 @@
-# Tanks Inc - United Front 💥
+# Tanks Inc - United Front 💥🚀
 
 Welcome to **Tanks Inc - United Front**, where teamwork makes the dream work... and by dream, we mean blowing up enemy bases with your friends! :sunglasses::boom:
 
@@ -7,14 +7,14 @@ Imagine a world where tanks rule and strategy is king. In "Tanks Inc - United Fr
 
 ## Features :star2:
 - **Multiplayer Mayhem**: Team up with friends or random allies and show those enemy bases who's boss! :muscle:
-- **Strategic Gameplay**: Plan your attacks, coordinate with your team, and execute flawless strategies to secure victory. :brain:
-- **Diverse Tank Arsenal**: Choose from a variety of tanks, each with its own strengths and weaknesses. Customize your tank to fit your playstyle! :mechanical_arm:
-- **Dynamic Battlefields**: No two battles are the same! Adapt to changing environments and enemy tactics to keep your team on top. :world_map:
-- **Epic Upgrades**: Earn rewards and upgrade your tanks to become an unstoppable force on the battlefield. :chart_with_upwards_trend:
+- **Simple Gameplay:** Easy to pick up and play, focusing on teamwork and strategy. 🎯🚀
+- **Non-Stop Action:** Face wave after wave of challenging bots determined to take you down. 🤖💣
+- **Pure Fun:** No complicated upgrades or tank selection - just pure, unadulterated tank warfare. 🎉🔥
 
 ## Are You Ready to Roll Out? :rocket:
 Join the fight in "Tanks Inc - United Front" and become a legend on the battlefield. Team up, strategize, and blast your way to victory! :trophy::fire:
 
 ---
 
-*Disclaimer: No actual tanks were harmed in the making of this game. 😉*
+
+## Key Features:
