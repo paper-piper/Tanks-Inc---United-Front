@@ -15,6 +15,3 @@ Imagine a world where tanks rule and strategy is king. In "Tanks Inc - United Fr
 Join the fight in "Tanks Inc - United Front" and become a legend on the battlefield. Team up, strategize, and blast your way to victory! :trophy::fire:
 
 ---
-
-
-## Key Features:
